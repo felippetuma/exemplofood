@@ -7,4 +7,4 @@ const Pedido = () => {
   )
 }
 
-export default Ped
+export default Pedido
